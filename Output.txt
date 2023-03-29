@@ -1,0 +1,322 @@
+Total Population: 20000
+
+Day [1] Population Health Status:
+Unexposed: 19183
+Exposed: 129
+Infected: 688
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [2] Population Health Status:
+Unexposed: 18517
+Exposed: 758
+Infected: 725
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [3] Population Health Status:
+Unexposed: 17466
+Exposed: 1319
+Infected: 1215
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [4] Population Health Status:
+Unexposed: 16484
+Exposed: 1647
+Infected: 1869
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [5] Population Health Status:
+Unexposed: 14752
+Exposed: 2931
+Infected: 2317
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [6] Population Health Status:
+Unexposed: 12085
+Exposed: 4612
+Infected: 3303
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [7] Population Health Status:
+Unexposed: 7523
+Exposed: 6603
+Infected: 5874
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [8] Population Health Status:
+Unexposed: 3954
+Exposed: 5312
+Infected: 10734
+Symptomatic: 0
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [9] Population Health Status:
+Unexposed: 2489
+Exposed: 2708
+Infected: 14729
+Symptomatic: 74
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [10] Population Health Status:
+Unexposed: 1623
+Exposed: 2011
+Infected: 16151
+Symptomatic: 215
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [11] Population Health Status:
+Unexposed: 960
+Exposed: 1695
+Infected: 16914
+Symptomatic: 431
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [12] Population Health Status:
+Unexposed: 535
+Exposed: 1246
+Infected: 17448
+Symptomatic: 771
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [13] Population Health Status:
+Unexposed: 296
+Exposed: 786
+Infected: 17756
+Symptomatic: 1162
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [14] Population Health Status:
+Unexposed: 175
+Exposed: 474
+Infected: 17687
+Symptomatic: 1664
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [15] Population Health Status:
+Unexposed: 89
+Exposed: 296
+Infected: 17158
+Symptomatic: 2457
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [16] Population Health Status:
+Unexposed: 49
+Exposed: 167
+Infected: 15810
+Symptomatic: 3974
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [17] Population Health Status:
+Unexposed: 22
+Exposed: 96
+Infected: 13492
+Symptomatic: 6390
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [18] Population Health Status:
+Unexposed: 16
+Exposed: 50
+Infected: 10784
+Symptomatic: 9150
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [19] Population Health Status:
+Unexposed: 6
+Exposed: 30
+Infected: 7981
+Symptomatic: 11983
+Dead: 0
+POPULATION REMAINING: 100%
+
+Day [20] Population Health Status:
+Unexposed: 3
+Exposed: 15
+Infected: 5565
+Symptomatic: 14343
+Dead: 74
+POPULATION REMAINING: 99.63%
+
+Day [21] Population Health Status:
+Unexposed: 2
+Exposed: 6
+Infected: 3762
+Symptomatic: 16015
+Dead: 215
+POPULATION REMAINING: 98.925%
+
+Day [22] Population Health Status:
+Unexposed: 0
+Exposed: 5
+Infected: 2537
+Symptomatic: 17027
+Dead: 431
+POPULATION REMAINING: 97.845%
+
+Day [23] Population Health Status:
+Unexposed: 0
+Exposed: 3
+Infected: 1671
+Symptomatic: 17555
+Dead: 771
+POPULATION REMAINING: 96.145%
+
+Day [24] Population Health Status:
+Unexposed: 1
+Exposed: 1
+Infected: 1072
+Symptomatic: 17764
+Dead: 1162
+POPULATION REMAINING: 94.19%
+
+Day [25] Population Health Status:
+Unexposed: 1
+Exposed: 1
+Infected: 677
+Symptomatic: 17657
+Dead: 1664
+POPULATION REMAINING: 91.68%
+
+Day [26] Population Health Status:
+Unexposed: 0
+Exposed: 2
+Infected: 421
+Symptomatic: 17120
+Dead: 2457
+POPULATION REMAINING: 87.715%
+
+Day [27] Population Health Status:
+Unexposed: 0
+Exposed: 1
+Infected: 255
+Symptomatic: 15770
+Dead: 3974
+POPULATION REMAINING: 80.13%
+
+Day [28] Population Health Status:
+Unexposed: 0
+Exposed: 1
+Infected: 137
+Symptomatic: 13472
+Dead: 6390
+POPULATION REMAINING: 68.05%
+
+Day [29] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 78
+Symptomatic: 10771
+Dead: 9150
+POPULATION REMAINING: 54.25%
+
+Day [30] Population Health Status:
+Unexposed: 0
+Exposed: 1
+Infected: 39
+Symptomatic: 7977
+Dead: 11983
+POPULATION REMAINING: 40.085%
+
+Day [31] Population Health Status:
+Unexposed: 0
+Exposed: 1
+Infected: 17
+Symptomatic: 5565
+Dead: 14417
+POPULATION REMAINING: 27.915%
+
+Day [32] Population Health Status:
+Unexposed: 0
+Exposed: 1
+Infected: 7
+Symptomatic: 3762
+Dead: 16230
+POPULATION REMAINING: 18.85%
+
+Day [33] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 2
+Symptomatic: 2539
+Dead: 17458
+POPULATION REMAINING: 12.71%
+
+Day [34] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 1
+Symptomatic: 1672
+Dead: 18326
+POPULATION REMAINING: 8.37%
+
+Day [35] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 1
+Symptomatic: 1072
+Dead: 18926
+POPULATION REMAINING: 5.37%
+
+Day [36] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 1
+Symptomatic: 677
+Dead: 19321
+POPULATION REMAINING: 3.395%
+
+Day [37] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 1
+Symptomatic: 421
+Dead: 19577
+POPULATION REMAINING: 2.115%
+
+Day [38] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 0
+Symptomatic: 255
+Dead: 19744
+POPULATION REMAINING: 1.28%
+
+Day [39] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 0
+Symptomatic: 137
+Dead: 19862
+POPULATION REMAINING: 0.69%
+
+Day [40] Population Health Status:
+Unexposed: 1
+Exposed: 0
+Infected: 0
+Symptomatic: 78
+Dead: 19921
+POPULATION REMAINING: 0.395%
+

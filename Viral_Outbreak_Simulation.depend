@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1677606541 source:c:\users\lewis\desktop\cs 361\project 1\viral_outbreak_simulation\main.cpp
+	"person.h"
+	"mixGroup.h"
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	<cmath>
+	<fstream>
+
+1677601658 c:\users\lewis\desktop\cs 361\project 1\viral_outbreak_simulation\include\person.h
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+
+1677434439 c:\users\lewis\desktop\cs 361\project 1\viral_outbreak_simulation\include\mixgroup.h
+	"person.h"
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+
+1677606758 source:c:\users\lewis\desktop\cs 361\project 1\viral_outbreak_simulation\src\mixgroup.cpp
+	"mixGroup.h"
+	<list>
+	<iostream>
+	<random>
+	<ctime>
+	<cmath>
+
+1677606648 source:c:\users\lewis\desktop\cs 361\project 1\viral_outbreak_simulation\src\person.cpp
+	"person.h"
+	<list>
+	<random>
+	<ctime>
+
